@@ -1,2 +1,2 @@
-A collection of ready to use, responsive components
+Ready to use, responsive components
 =============
